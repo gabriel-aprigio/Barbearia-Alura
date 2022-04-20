@@ -3,10 +3,6 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-main {
-    margin: 0 10px;
-}
-
 header {
     background-color: #BBBBBB;
     padding: 20px 0;
@@ -88,7 +84,6 @@ nav a:hover {
     font-weight: bold;
     margin: 10px 0 0;
     margin-top: 10px;
-
 }
 
 footer {
